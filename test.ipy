@@ -1,0 +1,35 @@
+# a= 8
+# b= 10
+# c= a+b
+# print( "sum of a and b:", a + b )
+# (type(a))
+# (type(b))
+#d = "chitra"
+#e = "sharma"
+#f = d+e
+#print(f)
+#a=10
+#b=10
+#a==b
+#id(a)
+#id(b)
+a= 10.3
+b= 11.4
+c = a+b
+print(a+b)
+name = input("my name is:")
+print(name)
+type(name)
+# type casting and conversion - implicit , explicit
+value = int(input("my value is:"))
+print(value) 
+type(value)
+float = float(input("my value is:"))
+print(float)
+type(float)
+
+###2 python in implicit  
+#2 python in explicit
+# 2 " " id
+# 2 " " type 
+# 2 " " input ###
