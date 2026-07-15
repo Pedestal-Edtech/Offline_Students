@@ -1,5 +1,0 @@
-a=int(input("a="))
-b=int(input("b="))
-sq= (a*a*a+b*b*b+3*a*a*b+3*a*b*b)
-s4= (a*a*a*a+b*b*b*b+4*a*a*a*b)
-print(sq)
